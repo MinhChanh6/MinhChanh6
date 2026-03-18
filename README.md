@@ -1,9 +1,10 @@
-# I'm Chanh Minh :)
+# Chanh M.Ho
 
-Independent Creative Direction & Dev.
+Independent Creative Developer crafting smooth, award-winning web experiences. 
 
-Portfolio (eventually) [here](https://your-portfolio-link.com).
+Focused on motion, detail, and performance. Based in Saigon, Vietnam.
 
-[Twitter](#) · [Email](#) · [CodeSandbox](#) · [Dribbble](#) · [Behance](#)
 
-👀
+Portfolio (temporary chaos)  → [here](#https://www.mchanh.dev/)
+
+Twitter · Email · Dribbble · Behance
